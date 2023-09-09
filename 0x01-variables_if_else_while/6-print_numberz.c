@@ -3,7 +3,7 @@
 
 /**
  * main - prints numbers  below 10
- * Always 0 (success)
+ * Return: Always 0 (success)
  */
 
 int main(void)
